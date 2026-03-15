@@ -7,7 +7,7 @@
 ## Highlights
 
 - **AI Mode** — Local AI (NER) detects and blurs **names, addresses, organizations**, and other PII in plain text. Runs entirely in your browser via Transformers.js; no data is sent to any server. Choose between Piiranha (English) or multilang (EN, DE, IT, FR).
-- **Auto-enable when screen sharing** — As soon as you start sharing your screen (e.g. in Google Meet, Zoom), Smart Blur can automatically turn on blurring so sensitive information stays hidden from your audience.
+- **Auto-enable when screen sharing** — As soon as you start sharing your screen from the browser(e.g. in Google Meet, Zoom Web, Teams and mnany more), Smart Blur can automatically turn on blurring so sensitive information stays hidden from your audience.
 
 ---
 
