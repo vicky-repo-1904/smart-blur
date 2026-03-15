@@ -23,7 +23,7 @@
 
 - **Click-to-blur**: Click any element to blur it.
 - **Draw-to-blur**: Draw a rectangle over a region to blur it.
-- **Per-page blur persistence** (Pro): Save keywords, click targets, and draw regions per URL so they reappear when you revisit.
+- **Per-page blur persistence**: Save keywords, click targets, and draw regions per URL so they reappear when you revisit.
 
 ### AI mode
 
@@ -34,6 +34,6 @@
 ### General
 
 - **Floating quick-access panel** for toggles and tools.
-- **Import / export settings** (Pro).
+- **Import / export settings**.
 - **Light / dark** panel theme.
 - Works on **any website**; no server or account required.
